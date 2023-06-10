@@ -11,7 +11,7 @@ Route<dynamic> onGenerateRoute(
         default:
           return const Scaffold(
             body: Center(
-              child: Text("roiute does not exist"),
+              child: Text("route does not exist"),
             ),
           );
       }
